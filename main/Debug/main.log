@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall board::board(void)" (??0board@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall board::~board(void)" (??1board@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall board::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (??Bboard@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall board::executeMove(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int const &,int const &,int const &)" (?executeMove@board@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABH11@Z) referenced in function _main
+C:\Users\Lokey\Desktop\2b working\main\Debug\main.exe : fatal error LNK1120: 4 unresolved externals

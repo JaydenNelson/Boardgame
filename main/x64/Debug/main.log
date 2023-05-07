@@ -1,0 +1,7 @@
+﻿  agent.cpp
+  board.cpp
+  cell.cpp
+  Group_project.cpp
+C:\Users\Lokey\Desktop\2b working\main\Group_project.cpp(27,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  main.vcxproj -> C:\Users\Lokey\Desktop\2b working\main\x64\Debug\main.exe
